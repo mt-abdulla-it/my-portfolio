@@ -1,0 +1,3 @@
+Place your profile photo here.
+Filename: profile.png (or profile.jpg)
+Recommended: Square crop, min 400x400px

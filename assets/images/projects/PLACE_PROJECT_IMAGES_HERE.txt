@@ -1,0 +1,8 @@
+Place project thumbnail images here.
+Required files:
+- perception-mapper.png
+- mawanella-tourism.png
+- smart-queue.png
+- mars-chatbot.png
+
+Run copy_assets.py from the project root to copy AI-generated images automatically.

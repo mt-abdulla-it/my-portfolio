@@ -1,0 +1,3 @@
+Place your CV/Resume PDF here.
+Filename: Abdulla_Thaslim_CV.pdf
+The Download CV button in the navbar links to this file.
